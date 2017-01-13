@@ -5,10 +5,9 @@ Ressources théoriques :
 * Modélisation (UML surtout) : https://github.com/simplonco/java-modelisation
 
 Ressources pratiques (liens à éventuellement intégrer aussi dans la théorie)  :
-* [Pokemon UML](https://github.com/simplonco/catch-them-all)
-* [Cooking Data](https://github.com/simplonco/java-cooking-data)
-* défis :
-  * [Hello la promo](https://github.com/simplonco/HelloLaPromo)
+* :lock: [Hello la promo](https://github.com/simplonco/HelloLaPromo)
+* :lock: [Pokemon UML](https://github.com/simplonco/catch-them-all)
+* :lock: [Cooking Data](https://github.com/simplonco/java-cooking-data)
 
 
 
