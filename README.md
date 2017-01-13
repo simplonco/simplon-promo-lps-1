@@ -1,5 +1,3 @@
-# simplon-promo-lps-1
-
 ## Session 2 : 23 janvier
 
 Ressources théoriques : 
