@@ -4,7 +4,7 @@ Ressources théoriques :
 * Java : https://github.com/simplonco/java-initiation
 * Modélisation (UML surtout) : https://github.com/simplonco/java-modelisation
 
-Ressources pratiques (liens à intégrer également dans la théorie)  :
+Ressources pratiques (liens à éventuellement intégrer aussi dans la théorie)  :
 * [Pokemon UML](https://github.com/simplonco/catch-them-all)
 * [Cooking Data](https://github.com/simplonco/java-cooking-data)
 * défis :
